@@ -1,3 +1,6 @@
 # hello-world
-Just another repository
-Hi this is my first git repository!!
+
+
+Hello Earthlings!
+
+Just tipping my toes into programming. I love the Cloud and its various possibilites!
